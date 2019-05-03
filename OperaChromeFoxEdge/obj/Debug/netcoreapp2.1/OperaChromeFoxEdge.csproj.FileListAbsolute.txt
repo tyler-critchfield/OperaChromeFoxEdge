@@ -1,0 +1,11 @@
+C:\Users\tyler.critchfield\source\repos\OperaChromeFoxEdge\OperaChromeFoxEdge\obj\Debug\netcoreapp2.1\OperaChromeFoxEdge.csprojAssemblyReference.cache
+C:\Users\tyler.critchfield\source\repos\OperaChromeFoxEdge\OperaChromeFoxEdge\obj\Debug\netcoreapp2.1\OperaChromeFoxEdge.csproj.CoreCompileInputs.cache
+C:\Users\tyler.critchfield\source\repos\OperaChromeFoxEdge\OperaChromeFoxEdge\obj\Debug\netcoreapp2.1\OperaChromeFoxEdge.AssemblyInfoInputs.cache
+C:\Users\tyler.critchfield\source\repos\OperaChromeFoxEdge\OperaChromeFoxEdge\obj\Debug\netcoreapp2.1\OperaChromeFoxEdge.AssemblyInfo.cs
+C:\Users\tyler.critchfield\source\repos\OperaChromeFoxEdge\OperaChromeFoxEdge\bin\Debug\netcoreapp2.1\OperaChromeFoxEdge.deps.json
+C:\Users\tyler.critchfield\source\repos\OperaChromeFoxEdge\OperaChromeFoxEdge\bin\Debug\netcoreapp2.1\OperaChromeFoxEdge.runtimeconfig.json
+C:\Users\tyler.critchfield\source\repos\OperaChromeFoxEdge\OperaChromeFoxEdge\bin\Debug\netcoreapp2.1\OperaChromeFoxEdge.runtimeconfig.dev.json
+C:\Users\tyler.critchfield\source\repos\OperaChromeFoxEdge\OperaChromeFoxEdge\bin\Debug\netcoreapp2.1\OperaChromeFoxEdge.dll
+C:\Users\tyler.critchfield\source\repos\OperaChromeFoxEdge\OperaChromeFoxEdge\bin\Debug\netcoreapp2.1\OperaChromeFoxEdge.pdb
+C:\Users\tyler.critchfield\source\repos\OperaChromeFoxEdge\OperaChromeFoxEdge\obj\Debug\netcoreapp2.1\OperaChromeFoxEdge.dll
+C:\Users\tyler.critchfield\source\repos\OperaChromeFoxEdge\OperaChromeFoxEdge\obj\Debug\netcoreapp2.1\OperaChromeFoxEdge.pdb
